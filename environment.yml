@@ -1,11 +1,13 @@
-name: Decision Trees and Random Forests-environment
+name: Decision-Trees-and-Random-Forests-environment
+
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python=3.11
   - numpy
   - pandas
   - matplotlib
   - seaborn
   - scikit-learn
   - jupyter
+  
